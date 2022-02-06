@@ -5,4 +5,4 @@ resources:
 images:
 - name: IMAGE_PLACEHOLDER
   newName: prana12/dwk-4-gitops-app
-  newTag: fdafd7088d04892815ed037cf30ca4f61c7af2f7
+  newTag: e5353256453736d783c4ad1eac89c2921fa310a9
