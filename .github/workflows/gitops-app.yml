@@ -3,7 +3,7 @@ name: Release 4-gitops-app
 on:
   push:
     branches:
-      - master
+      - main
     paths:
       - '4-gitops/app/**'
       - '.github/workflows/gitops-app.yml'
